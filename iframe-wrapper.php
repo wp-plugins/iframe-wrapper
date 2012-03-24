@@ -3,7 +3,7 @@
 Plugin Name: iFrame Wrapper
 Plugin URI: http://www.proofbuddy.com
 Description: Adds a shortcode that allows you to embed another site inside a page or post using an iframe.
-Version: 0.1
+Version: 0.1.1
 Author: ProofBuddy
 Author URI: http://www.proofbuddy.com
 License: GPL2

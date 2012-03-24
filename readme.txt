@@ -1,9 +1,9 @@
 === iframe Wrapper ===
-Contributors: Aelora
+Contributors: RyanNutt
 Tags: iframe, wrapper, wrap, frame, embed
 Requires at least: 2.6
 Tested up to: 3.0
-Stable tag: 0.1
+Stable tag: 0.1.1
 
 A small little plugin to embed an auto resizing iframe into a WordPress page or post.
 
@@ -37,3 +37,6 @@ None yet.
 
 = 0.1 =
 Initial Relese
+
+= 0.1.1 =
+Moved to a different host, nothing to upgrade if the old one is working for you
