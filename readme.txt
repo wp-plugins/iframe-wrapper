@@ -1,5 +1,5 @@
 === iframe Wrapper ===
-Contributors: RyanNutt
+Contributors: Aelora
 Tags: iframe, wrapper, wrap, frame, embed
 Requires at least: 2.6
 Tested up to: 3.0
@@ -8,6 +8,10 @@ Stable tag: 0.1.1
 A small little plugin to embed an auto resizing iframe into a WordPress page or post.
 
 == Description ==
+
+**This plugin has been abandoned. Because of browser security issues, it never really 
+worked all that well anyway. **
+
 iframes get a bad wrap, and rightly so in many cases. But when you want to embed
 one website inside of another one in a single step, they're a really easy way to make it work.
 
@@ -20,10 +24,6 @@ This will put an iframe linking to example.com into your page. The width will
 be 100% of the contain it's in and the height will automatically adjust to the
 contents of the frame.
 
-This plugin was originally written to embed [ProofBuddy](http://www.proofbuddy.com)
-sites within a WordPress theme without much fuss. But it should work well to embed
-any site within a WordPress theme. 
-
 == Installation ==
 1. Upload the `iframe-wrapper` folder to the `/wp-content/plugins/` directory
 1. Active the plugin through the Plugins menu in WordPress
@@ -31,7 +31,9 @@ any site within a WordPress theme.
 
 == Frequently Asked Questions ==
 
-None yet.
+= Why abandoned? =
+
+Because of issues with browser security, this plugin really only ever worked well when the embedded page was on the same domain as the WordPress site. That worked okay for why the plugin was written originally, but not for most of the users that downloaded it.
 
 == Changelog ==
 
